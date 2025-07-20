@@ -10,8 +10,6 @@ A semantic keyword extraction system that combines three methodologies: TF-IDF, 
 
 3- Real-time processing of queries and documents
 
-# Comparative performance analysis
-
 ## Key Results
 1- Best semantic score: 0.7078 for "connect company email"
 
