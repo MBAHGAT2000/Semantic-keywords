@@ -1,5 +1,5 @@
 # Semantic Keywords Extraction System
-## Dataset link "https://www.kaggle.com/datasets/dkhundley/sample-rag-knowledge-item-dataset"
+## Dataset link : "https://www.kaggle.com/datasets/dkhundley/sample-rag-knowledge-item-dataset"
 ## Notebook link : "https://www.kaggle.com/code/mohammedbahgat/semantic-keywords?scriptVersionId=251508708"
 ## Overview
 A semantic keyword extraction system that combines three methodologies: TF-IDF, semantic embeddings, and frequency analysis for document retrieval applications.
