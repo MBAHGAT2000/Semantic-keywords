@@ -1,4 +1,4 @@
-### Semantic Keywords Extraction System
+# Semantic Keywords Extraction System
 
 ## Overview
 A semantic keyword extraction system that combines three methodologies: TF-IDF, semantic embeddings, and frequency analysis for document retrieval applications.
