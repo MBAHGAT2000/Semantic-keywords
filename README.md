@@ -3,7 +3,7 @@
 ## Overview
 A semantic keyword extraction system that combines three methodologies: TF-IDF, semantic embeddings, and frequency analysis for document retrieval applications.
 
-# Features
+## Features
 1- Multi-method keyword extraction using three different algorithms
 
 2- RAG system integration with confidence scoring
@@ -12,7 +12,7 @@ A semantic keyword extraction system that combines three methodologies: TF-IDF, 
 
 # Comparative performance analysis
 
-# Key Results
+## Key Results
 1- Best semantic score: 0.7078 for "connect company email"
 
 2- Average RAG confidence: 0.562
@@ -21,7 +21,7 @@ A semantic keyword extraction system that combines three methodologies: TF-IDF, 
 
 4- System status: All extraction methods working successfully
 
-# Applications
+## Applications
 1- Technical documentation search and automated keyword identification
 
 2- Knowledge management and enterprise document retrieval
@@ -30,5 +30,5 @@ A semantic keyword extraction system that combines three methodologies: TF-IDF, 
 
 4- Content analysis for semantic understanding
 
-# Technologies
+## Technologies
 Built with Python 3.11, Sentence-Transformers, Scikit-learn, and PyTorch using the all-MiniLM-L6-v2 model for semantic embeddings.
